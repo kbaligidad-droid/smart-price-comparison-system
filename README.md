@@ -333,7 +333,8 @@ pip install -r requirements.txt --upgrade
 
 ##  Screenshots 
 - Home(https://github.com/kbaligidad-droid/smart-price-comparison-system/blob/main/Screenshot%202026-04-29%20200729.png?raw=true)
-- 
+- Login(https://github.com/kbaligidad-droid/smart-price-comparison-system/blob/main/Screenshot%202026-04-29%20220734.png?raw=true)
+- Comparison page(
 
 ## 📝 File Structure
 
