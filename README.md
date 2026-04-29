@@ -332,7 +332,8 @@ pip install -r requirements.txt --upgrade
 ---
 
 ##  Screenshots 
-- Home(
+- Home(https://github.com/kbaligidad-droid/smart-price-comparison-system/blob/main/Screenshot%202026-04-29%20200729.png?raw=true)
+- 
 
 ## 📝 File Structure
 
